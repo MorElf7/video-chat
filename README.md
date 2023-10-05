@@ -4,7 +4,7 @@
 
 This is my attempt at learning WebRTC, Socket, and Streaming for network.
 
-The tech stack is Node.js TypeScript, MongoDB, Socket.io for backend. And Next.js for frontend.
+The tech stack is `Node.js`, `TypeScript`, `MongoDB`, `Socket.io` for backend. And `Next.js` for frontend.
 
 This is a simple messaging and video calling web application with these functionalities:
 
@@ -15,4 +15,6 @@ This is a simple messaging and video calling web application with these function
 - User can initiate/accept a voice chat or a video call from other users.
 - During the call, user can mute their audio and video. And they also have access to the chat that is relative to
   that room/conversation.
-- A call can handle up to 100 clients simultaneously with relatively low impact on performance.
+- A call can handle up to `100` clients simultaneously with relatively low impact on performance.
+- User can search for room that interests them to join. The search is finding matching or related terms from the
+  room name or description.
