@@ -4,6 +4,8 @@
 
 This is my attempt at learning WebRTC, Socket, and Streaming for network.
 
+Visit [https://video-chat-client-sooty.vercel.app/](https://video-chat-client-sooty.vercel.app/) to check it out.
+
 The tech stack is `Node.js`, `TypeScript`, `MongoDB`, `Socket.io` for backend. And `Next.js` for frontend.
 
 This is a simple messaging and video calling web application with these functionalities:
